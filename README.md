@@ -4,7 +4,7 @@
   Social Sync is a platform developed as part of my Final Professional Aptitude Project (called PAP in Portugal).
 </div>
 <div>
-  It is designed to help influencers manage interactions across social media more efficiently — including organizing calendars, tracking engagement, scheduling posts, connecting socials, handling messages... in one place. Also it includes a translation system.
+  It is designed to help influencers manage interactions across social media more efficiently — including organizing calendars, tracking engagement, scheduling posts, connecting socials, handling messages... in one place. It has a landing page, dashboard and it includes a translation system.
   <br>
   I think this has some value that's why I am publishing it, and I think it's a good app idea that can lead to a business.
   <br>
