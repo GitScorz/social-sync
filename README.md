@@ -33,3 +33,7 @@ If you use it or build upon it, please give proper credit.
 * Fontawesome Icons;
 * Mui (Base);
 * Sha256 Password Encryption;
+
+## Preview
+![Preview 1](images/9Haq3Mt.png)
+![Preview 2](images/swR5toQ.png)
