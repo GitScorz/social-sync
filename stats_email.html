@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+    body {
+      font-family: Inter, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: white;
+      margin: 0;
+    }
+
+    table {
+      width: 100%;
+      border-spacing: 20px;
+      margin: 0 auto;
+    }
+
+    td {
+      /* border: 1px solid #ddd; */
+      padding: 10px;
+      text-align: center;
+      background-color: #F4F5F5;
+      border-radius: 12px;
+      padding: 20px;
+    }
+
+    .main-table {
+      width: 1000px;
+      margin: 0 auto;
+    }
+
+    .highlight {
+      font-size: 2em;
+      font-weight: 900;
+    }
+
+    .title {
+      font-size: 2em;
+      margin: 0;
+      background: linear-gradient(256.09deg, #4D7DA1 -40.81%, #5854C2 -3.71%, #5886B8 33.39%, #FF9595 66.44%, #D59CD1 107.58%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .subtitle {
+      font-size: .7em;
+      color: #888;
+      font-weight: bold;
+    }
+
+    .icon {
+      width: 50px;
+    }
+
+    .wide {
+      width: 75%;
+    }
+
+    .narrow {
+      width: 25%;
+    }
+
+    .half {
+      width: 50%;
+    }
+
+    .top-fade {
+      background: radial-gradient(177.39% 137.2% at 15.25% -37.2%, rgba(7, 162, 228, 0.224) 0%, rgba(7, 162, 228, 0) 61.28%), #F4F5F5;
+    }
+  </style>
+</head>
+
+<body>
+  <table class="main-table">
+    <tr>
+      <td colspan="2" class="highlight half top-fade">
+        <span class="title">109</span>
+        <br>
+        <span class="subtitle">Showcased Products</span>
+      </td>
+      <td colspan="2" class="highlight half">
+        <span class="title">671,905</span>
+        <br>
+        <span class="subtitle">Overall Impressions</span>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="highlight narrow">
+        <span class="title">215</span>
+        <br>
+        <span class="subtitle">Days Streak</span>
+      </td>
+      <td class="highlight narrow">
+        <span class="title">328</span>
+        <br>
+        <span class="subtitle">Tweets / Shots</span>
+      </td>
+      <td colspan="2" class="highlight wide">
+        <span class="title">SaaS Shots</span>
+        <br>
+        <span class="subtitle">The Most Popular Shots Came From</span>
+      </td>
+    </tr>
+    <tr>
+      <td class="highlight half">
+        <span class="title">13.5k</span>
+        <br>
+        <span class="subtitle">Pro Clicks</span>
+      </td>
+
+      <td class="highlight half">
+        <span class="title">44%</span>
+        <br>
+        <span class="subtitle">Profile Conversion Rate</span>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" class="highlight">
+        <span class="title">0 -> 5215</span>
+        <br>
+        <span class="subtitle">Followers</span>
+      </td>
+    </tr>
+  </table>
+</body>
+
+</html>

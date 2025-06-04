@@ -1,0 +1,141 @@
+{
+  "Metadata": {
+    "description": "Uma plataforma para gerir interações em redes sociais.",
+    "accounts-center": "Centro de Contas | Social Sync",
+    "analytics": "Análise | Social Sync",
+    "brands": "Marcas | Social Sync",
+    "private-messages": "Mensagens Privadas | Social Sync"
+  },
+  "LandingPage": {
+    "main-title-one": "Várias Tarefas",
+    "main-title-two": "de uma Vez",
+    "main-description": "Celebra o êxito da tua jornada de influência digital com o Social Sync, uma plataforma concebida para simplificar a gestão de interações nas redes sociais, impulsionar o teu desempenho e amplificar a tua presença online.",
+    "start-now": "Começar Já!",
+    "everything-you-need": {
+      "title": "Tudo o que precisas",
+      "description": "O Social Sync disponibiliza agendamento de conteúdo, análise de desempenho, colaboração com marcas, automação de envolvimento e monitorização de concorrentes para influenciadores digitais.",
+      "performance-analysis": {
+        "title": "Análise de Desempenho",
+        "description": "Ferramentas analíticas avançadas para rastrear o desempenho das publicações, engajamento do público e crescimento de seguidores."
+      },
+      "content-scheduling": {
+        "title": "Agendamento de Conteúdo",
+        "description": "Capacidade de agendar publicações em várias redes sociais, facilitando a consistência e a gestão do conteúdo."
+      },
+      "direct-message-management": {
+        "title": "Gestão de Mensagens Diretas",
+        "description": "Centralize mensagens de várias redes sociais num único local para responder e gerir conversas com seguidores de forma eficiente."
+      }
+    },
+    "intuitive-interface": {
+      "title": "Interface intuitiva",
+      "description": "Comemora a alegria da realização com uma plataforma desenvolvida para monitorar o teu progresso, motivar os teus esforços e comemorar os teus sucessos, várias tarefas de uma vez."
+    },
+    "dropdown": {
+      "dashboard": "Painel de controlo",
+      "sign-out": "Terminar sessão"
+    }
+  },
+  "Footer": {
+    "description": "@ {date} Social Sync, Inc. Todos os direitos reservados"
+  },
+  "Dashboard": {
+    "followers": "Seguidores",
+    "views": "Visualizações",
+    "comments": "Comentários",
+    "likes": "Gostos",
+    "shares": "Partilhas",
+    "signout": "Terminar Sessão",
+    "navbar": {
+      "premium": "Obter Premium",
+      "dashboards": "Painéis de Controlo",
+      "individual-analytics": "Análise Individual",
+      "home": "Início",
+      "analytics": "Análise",
+      "accounts-center": "Centro de Contas",
+      "brands": "Marcas",
+      "private-messages": "Mensagens Privadas"
+    },
+    "notifications": {
+      "title": "Notificações",
+      "none": "Ainda não tens nenhumas notificações!",
+      "commented": "Comentou",
+      "followed": "Começou a seguir-te.",
+      "liked": "Gostou da tua publicação.",
+      "new-feature-title": "Nova Funcionalidade!",
+      "birthday-title": "Parabéns!",
+      "birthday-description": "Parabéns! Esperamos que tenhas um dia fantástico!",
+      "security-alert": "Atualização de Segurança",
+      "password-changed": "Mudaste a tua palavra-passe recentemente.",
+      "system-alert": "Notificação do Sistema",
+      "system-alerts": {
+        "verified": "A tua conta foi verificada com sucesso!"
+      },
+      "features": {
+        "recent-panel": "Experimenta o nosso novo painel de análise!"
+      }
+    },
+    "home": {
+      "description": "Vê como as tuas redes sociais estão a crescer e avalia o seu sucesso.",
+      "posts": {
+        "title": "Publicações",
+        "description": "Visão geral das tuas publicações publicadas e programadas.",
+        "last-posts-tab": "Últimas Publicações",
+        "scheduled-posts-tab": "Publicações Agendadas",
+        "published-at": "Publicado às {timestamp}",
+        "no-scheduled-posts": "Nada agendado.",
+        "schedule-post": "Agendar Publicação",
+        "no-posts-lately": "Não fizeste nenhuma postagem recentemente.",
+        "post-content": "Conteúdo da Publicação",
+        "social-network": "Rede Social:",
+        "schedule-time": "Hora do Lançamento:",
+        "errors": {
+          "error-content": "O conteúdo da publicação tem de ser maior que 2 caracteres!",
+          "error-social-network": "Seleciona uma rede social!",
+          "error-time": "Seleciona a hora do lançamento!"
+        },
+        "create": "Criar"
+      },
+      "general-performance": {
+        "title": "Destaques de Desempenho",
+        "description": "A publicação com maior desempenho e o gráfico de seguidores deste mês.",
+        "top-performing-post": "Publicação do mês"
+      }
+    },
+    "accounts-center": {
+      "description": "Vincula as tuas redes sociais num único painel intuitivo e eficiente.",
+      "remove": "Remover",
+      "connect": "Vincular"
+    },
+    "analytics": {
+      "email": {
+        "text": "Aqui estão as estatísticas deste mês, tal como pediste!"
+      },
+      "description": "",
+      "follower-analise": "",
+      "send-analise-email": "Enviar análise por e-mail.",
+      "engagement-analysis": "Análise de Engajamento",
+      "trending-hashtags": "Hashtags em alta",
+      "last-post-performance": "Desempenho da Última Publicação"
+    },
+    "brands": {
+      "description": "Este espaço exclusivo é dedicado a proporcionar parcerias estratégicas e vantajosas entre marcas prestigiadas e influenciadores de renome. Através deste painel, as marcas têm a oportunidade de descobrir e colaborar com os melhores influenciadores, aumentando assim a sua visibilidade e alcance no mercado. Os influenciadores, por sua vez, beneficiam ao associar-se a marcas conceituadas, potenciando a sua credibilidade e rendimentos. O Social Sync é o elo de ligação perfeito para criar campanhas publicitárias inovadoras e eficazes, garantindo resultados impressionantes para todas as partes envolvidas.",
+      "are-influencer": "És um influencer?",
+      "are-brand": "És uma marca?",
+      "brands-that-are-with-us": "As marcas que já nos acompanham",
+      "second-description": "Temos o orgulho de trabalhar com uma variedade de marcas de renome que confiam no Social Sync para as suas campanhas publicitárias. Estas parcerias demonstram o nosso compromisso com a excelência e a inovação no marketing digital."
+    },
+    "private-messages": {
+      "chat-here": "A conversa irá aparecer aqui!",
+      "type-message": "Escreve uma mensagem"
+    }
+  },
+  "Premium": {
+    "description": "Tenha uma experiência aprimorada com ferramentas exclusivas para criadores com Premium do Social Sync.",
+    "month": "mês",
+    "brand-colabs": "Colaboração com Marcas",
+    "engagement-automation": "Automação de Engajamento",
+    "dm-management": "Gestão de Mensagens Privadas",
+    "subscribe-now": "Increve-te agora"
+  }
+}

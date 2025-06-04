@@ -1,0 +1,141 @@
+{
+  "Metadata": {
+    "description": "A platform to manage interactions on social networks.",
+    "accounts-center": "Accounts Center | Social Sync",
+    "analytics": "Analytics | Social Sync",
+    "brands": "Brands | Social Sync",
+    "private-messages": "Private Messages | Social Sync"
+  },
+  "LandingPage": {
+    "main-title-one": "Multiple Tasks",
+    "main-title-two": "at once",
+    "main-description": "Celebrate the success of your digital influence journey with Social Sync, a platform designed to simplify social media interaction management, boost your performance, and amplify your online presence.",
+    "start-now": "Start Now!",
+    "everything-you-need": {
+      "title": "Everything You Need",
+      "description": "Social Sync offers content scheduling, performance analysis, brand collaboration, engagement automation, and competitor monitoring for digital influencers.",
+      "performance-analysis": {
+        "title": "Performance Analysis",
+        "description": "Advanced analytical tools to track post performance, audience engagement, and follower growth."
+      },
+      "content-scheduling": {
+        "title": "Content Scheduling",
+        "description": "Capability to schedule posts across multiple social networks, facilitating consistency and content management."
+      },
+      "direct-message-management": {
+        "title": "Direct Message Management",
+        "description": "Centralize messages from various social networks in one place to efficiently respond to and manage conversations with followers."
+      }
+    },
+    "intuitive-interface": {
+      "title": "Intuitive Interface",
+      "description": "Celebrate the joy of accomplishment with a platform designed to monitor your progress, motivate your efforts, and celebrate your successes, multiple tasks at once."
+    },
+    "dropdown": {
+      "dashboard": "Dashboard",
+      "sign-out": "Sign out"
+    }
+  },
+  "Footer": {
+    "description": "@ {date} Social Sync, Inc. All rights reserved"
+  },
+  "Dashboard": {
+    "followers": "Followers",
+    "views": "Views",
+    "comments": "Comments",
+    "likes": "Likes",
+    "shares": "Shares",
+    "signout": "Sign Out",
+    "navbar": {
+      "premium": "Get Premium",
+      "dashboards": "Dashboards",
+      "individual-analytics": "Individual Analytics",
+      "home": "Home",
+      "analytics": "Analytics",
+      "accounts-center": "Accounts Center",
+      "brands": "Brands",
+      "private-messages": "Private Messages"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "none": "You don't have any notifications yet!",
+      "commented": "Commented",
+      "followed": "Started following you!",
+      "liked": "Liked your post.",
+      "new-feature-title": "New Feature!",
+      "birthday-title": "Happy Birthday!",
+      "birthday-description": "Happy birthday! We hope you have a fantastic day!",
+      "security-alert": "Security Alert",
+      "password-changed": "Your password was recently changed.",
+      "system-alert": "System Notification",
+      "system-alerts": {
+        "verified": "Your account was verified successfully!"
+      },
+      "features": {
+        "recent-panel": "Try our recent analytics panel!"
+      }
+    },
+    "home": {
+      "description": "See how your social networks are growing and assess their success.",
+      "posts": {
+        "title": "Posts",
+        "description": "Overview of your published and scheduled posts.",
+        "last-posts-tab": "Latest Posts",
+        "scheduled-posts-tab": "Scheduled Posts",
+        "published-at": "Published at {timestamp}",
+        "no-scheduled-posts": "Nothing scheduled.",
+        "schedule-post": "Schedule Post",
+        "no-posts-lately": "You haven't made any posts recently.",
+        "post-content": "Post Content",
+        "social-network": "Social Network:",
+        "schedule-time": "Post Release Time:",
+        "errors": {
+          "error-content": "The content of the publication must be longer than 2 characters!",
+          "error-social-network": "Select a social network!",
+          "error-time": "Select the post release time!"
+        },
+        "create": "Create"
+      },
+      "general-performance": {
+        "title": "Performance Highlights",
+        "description": "This month's top-performing post and follower chart.",
+        "top-performing-post": "Publication of the month"
+      }
+    },
+    "accounts-center": {
+      "description": "Link your social networks in a single intuitive and efficient dashboard.",
+      "remove": "Remove",
+      "connect": "Link"
+    },
+    "analytics": {
+      "email": {
+        "text": "Here are the statistics of this month, just how you asked!"
+      },
+      "description": "",
+      "follower-analise": "",
+      "send-analise-email": "Send email analysis.",
+      "engagement-analysis": "Engagement Analysis",
+      "trending-hashtags": "Trending Hashtags",
+      "last-post-performance": "Last Post Performance"
+    },
+    "brands": {
+      "description": "This exclusive space is dedicated to providing strategic partnerships and advantages between prestigious brands and renowned influencers. Through this panel, brands have the opportunity to discover and collaborate with the best influencers, thus increasing your visibility and reach in the market. Influencers, in turn, benefit from associating themselves with reputable brands, enhancing their credibility and income. Social Sync is the perfect link to create innovative and effective advertising campaigns, ensuring impressive results for all parties involved.",
+      "are-influencer": "Are you a influencer?",
+      "are-brand": "Are you a brand?",
+      "brands-that-are-with-us": "The brands that are with us",
+      "second-description": "We're proud to work with a variety of renowned brands who trust Social Sync for their advertising campaigns. These partnerships demonstrate our commitment to excellence and innovation in digital marketing."
+    },
+    "private-messages": {
+      "chat-here": "The chat will appear here!",
+      "type-message": "Type a message"
+    }
+  },
+  "Premium": {
+    "description": "Enhance your experience with exclusive creator tools with Social Sync Premium.",
+    "month": "month",
+    "brand-colabs": "Brand Collaborations",
+    "engagement-automation": "Engagement Automation",
+    "dm-management": "Private Message Management",
+    "subscribe-now": "Subscribe Now"
+  }
+}
